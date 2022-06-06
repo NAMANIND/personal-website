@@ -39,6 +39,14 @@ body , html{
 .h-position1{
      margin-top: 121px;
 }
+
+.h-position2{
+    margin-top: 721px;
+}
+
+.h-position3{
+    margin-top: 165px;
+}
 .container{
     height: 100vh;
     width: 159vh;
@@ -46,4 +54,108 @@ body , html{
     margin-left: auto;
     margin-right: auto;
 
+}
+
+.yourname{
+    /* NAMAN RAI */
+
+
+    position: absolute;
+    width: 216px;
+    height: 56px;
+    left: 203px;
+    top: 30px;
+    font-family:'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    color: #C7A465;
+}
+
+.navbar{
+
+    position: absolute;
+
+    right: 203px;
+    top: 22px;
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;    
+}
+
+.navitem{
+    float: left;
+}
+
+.navitem a{
+    font-family:'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #C7A465;
+
+    display: block;
+    text-align: center;
+    padding: 40px ;
+    text-decoration: none;
+}
+
+.paragraph1{
+    position: absolute;
+    width: 520px;
+    height: 230px;
+    left: 207px;
+    top: 226px;
+    font-family:'Inter', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #C7A465;
+}
+
+.paragraph2{
+    position: absolute;
+    width: 1144px;
+    height: 142px;
+    left: 189px;
+    top: 848px;
+
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+
+    color: #C7A464;
+}
+
+h2{
+    position: absolute;
+    width: 321px;
+    height: 84px;
+    left: 428px;
+    top: 185px;
+
+    font-family: 'Pacifico',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 112px;
+
+    color: #354259;
+}
+
+.image1{
+    position: absolute;
+    width: 625.71px;
+    height: 564.56px;
+    left: 676px;
+    top: 242px;
 }
