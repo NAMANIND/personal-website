@@ -30,7 +30,7 @@ body , html{
 }
 
 .h-line{
-    
+
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -42,7 +42,8 @@ body , html{
      margin-top: 121px;
 }
 
-/* Task 2 */
+
+/* task 2 */
 
 .h-position2{
     margin-top: 721px;
@@ -52,9 +53,9 @@ body , html{
     margin-top: 165px;
 }
 .container{
-    height: 100vh;
+    height: 120vh;
     width: 159vh;
-    background-color: #ECE5C7;
+    background-color: #ECE5C7 ;
     margin-left: auto;
     margin-right: auto;
 
@@ -163,6 +164,7 @@ h2{
     left: 676px;
     top: 242px;
 }
+
 
 
 /* Task 3 */
