@@ -224,3 +224,147 @@ h2{
     border: none;
     bottom: 0;
 }
+
+
+/* Task 4 */
+
+h4{
+    position: absolute;
+    width: 120px;
+    height: 59px;
+    
+   
+
+    font-family: 'Lucida Fax';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #C7A465;
+}
+
+.progress {
+	height: 24px;
+    position: absolute;
+    width: 450.01px;
+
+    background-color: white;
+}
+
+.progress-bar {
+	background-color: #354259;
+
+    height: 24px;
+    position: absolute;
+    width: 0;
+
+	transition: width 1s ease-in-out;
+	transition-delay: 1.5s;
+}
+
+.p1{
+    margin-top: 635px;
+    left: 225px;
+}
+
+.bar1{
+    width: 98%;
+}
+
+.skill1{
+    padding-top: 523px;
+    left: 225px;
+}
+
+
+.p2{
+    margin-top: 800px;
+    left: 225px;
+}
+
+.bar2{
+    width: 90%;
+}
+.skill2{
+    width: 96px;
+    height: 59px;
+    left: 217px;
+    padding-top: 694px;
+}
+
+
+.p3{
+    margin-top: 970px;
+    left: 225px;
+}
+
+.bar3{
+    width: 85%;
+}
+.skill3{
+    width: 256px;
+    height: 59px;
+    left: 217px;
+    padding-top: 863px;
+}
+
+.p4{
+    margin-top: 635px;
+    right: 225px;
+}
+
+.bar4{
+    width: 90%;
+}
+.skill4{
+    padding-top: 521px;
+ 
+    right: 552px;
+  
+}
+
+
+.p5{
+    margin-top: 800px;
+    right: 220px;
+}
+
+.bar5{
+    width: 80%;
+}
+.skill5{
+    
+    right: 552px;
+    padding-top: 694px;
+}
+
+.p6{
+    margin-top: 970px;
+    right: 220px;
+}
+
+.bar6{
+    width: 95%;
+}
+.skill6{
+    right: 552px;
+    padding-top: 863px;
+}
+
+.image3{
+    position: absolute;
+    width: 117.62px;
+    height: 167.7px;
+    left: 705px;
+    padding-top: 912px;
+}
+.h-line2{
+    width: 159vh;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5px;
+    background-color: #C7A465;
+    border: none;
+    bottom: 0;
+}
