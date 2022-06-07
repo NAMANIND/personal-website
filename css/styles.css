@@ -163,3 +163,64 @@ h2{
     left: 676px;
     top: 242px;
 }
+
+
+/* Task 3 */
+
+.container2{
+    height: 142.3vh;
+    width: 159vh;
+    background-color: #ECE5C7 ;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.skills{
+    position: absolute;
+    width: 167px;
+    height: 86px;
+    left: 674px;
+
+    font-family: 'Pacifico',cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 112px;
+    color: #C7A465;
+    padding-top: 40px;
+}
+
+.image2{
+    position: absolute;
+    width: 654px;
+    height: 388px;
+    left: 395px;
+    padding-top: 55px;
+  
+}
+
+.small-line{
+    position: absolute;
+    left: 50%;
+    height: 312px;
+    margin-top: 585px;
+    border-left: 5px solid #C7A465;
+}
+
+.image3{
+    position: absolute;
+    width: 117.62px;
+    height: 167.7px;
+    left: 705px;
+    padding-top: 912px;
+}
+.h-line2{
+    width: 159vh;
+    margin-left: auto;
+    margin-right: auto;
+    height: 5px;
+    background-color: #C7A465;
+    border: none;
+    bottom: 0;
+}
